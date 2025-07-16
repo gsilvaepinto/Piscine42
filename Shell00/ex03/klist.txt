@@ -1,0 +1,5 @@
+-> verify if key already exists with 'klists'
+
+-> if it doesn't, then kinit and login with credentials
+
+-> then klist > klist.txt
